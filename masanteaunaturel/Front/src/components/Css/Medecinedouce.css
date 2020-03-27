@@ -1,0 +1,27 @@
+.color{
+    width: 100%;
+    height: 100vh;
+    
+}
+
+
+.ant-card-meta-title{
+    color:#fff!important;
+    padding: 20px 20px 0px 20px;
+}
+
+.ant-card-meta-description{
+    padding: 0px 20px 20px 20px;
+    color:#fff!important;
+}
+
+.background-image{
+    background-image: url('../../img/flowers.jpg'); 
+    background-size: cover; 
+    /* background-position: center; */
+    background-position: 0px -200px;
+    width: 100%;
+    height: 70vh;
+
+}
+

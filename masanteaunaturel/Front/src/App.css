@@ -1,0 +1,83 @@
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+#signin{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#connexion{
+width: 50%;
+height: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-evenly;
+}
+
+#inscription{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  }
+  
+
+
+#pro{
+width: 50%;
+height: 100%;
+background-color: rgb(129,158,130);
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-evenly;
+}
+
+#pro h2{
+  color: white;
+}
+
+.ant-card-body{
+  width: 100%!important;
+  height: 100%!important;
+  padding: 0 0!important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+::-webkit-scrollbar{
+  width: 18px;
+}
+
+::-webkit-scrollbar-track{
+  border: 1px solid #efefef;
+}
+::-webkit-scrollbar-thumb{
+  background-color: rgb(129,158,130);
+  border-radius: 3px;
+}

@@ -1,0 +1,12 @@
+.marker {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    clip-path: polygon(48% 29%, 100% 0, 100% 62%, 51% 100%, 0 64%, 0 1%);
+    background-color: rgb(129, 158, 130);
+    user-select: none;
+    transform: translate(-50%, -50%);
+    
+  }

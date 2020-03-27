@@ -1,0 +1,30 @@
+.ant-select-selector{
+    height: 40px!important;
+    margin-top: 100px;
+  
+}
+
+.search{
+  margin-top: 10%!important;
+  width: 100%;
+}
+
+
+.ant-btn-primary{
+    background-color: rgb(129,158,130)!important;
+    border-radius: 0px!important;
+    border-color: rgb(129,158,130)!important;
+}
+
+.ant-select-selection,.ant-select-selection--multiple,.ant-input:first-child,.ant-input{
+    border-radius: 0px!important;
+    border:1px solid rgb(129,158,130)!important;
+}
+
+.ant-select-selection--multiple:first-child{
+  border-right: none!important;
+}
+.ant-select-selection--multiple:first-child{
+  border-right: none!important;
+}
+
